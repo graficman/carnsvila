@@ -137,6 +137,7 @@
     </platform>
  -->
     <access origin="*" />
+    <access origin="http://*" />
     <allow-intent href="https://*/*" />
     <allow-intent href="tel:*" />
     <allow-intent href="sms:*" />
