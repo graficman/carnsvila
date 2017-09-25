@@ -4,8 +4,8 @@
     <description>
         Aplicació cataleg de Carns Vila.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="gcv@graficman.com" href="http://graficman.com">
+        Graficman
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
