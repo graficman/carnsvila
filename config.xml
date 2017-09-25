@@ -138,7 +138,7 @@
     </platform>
  -->
     <access origin="*"/>
-    <access origin="http://*" launch-external="yes"/>
+    <allow-navigation href="http://*" />
     <allow-intent href="tel:*" />
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
