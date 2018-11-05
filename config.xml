@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="carnsvila" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" 
-      android-versionCode="26"
+      android-versionCode="1"
       ios-CFBundleVersion="1.0.3">
     <name>Carns Vila</name>
     <description>
@@ -16,7 +16,7 @@
     <preference name="SplashScreenDelay" value="10000" />
    
     
-    <preference name="android-minSdkVersion" value="14" />
+    <preference name="android-minSdkVersion" value="26" />
     <!-- <plugin name="cordova-plugin-battery-status" source="npm" spec="~1.1.1" />
     <plugin name="cordova-plugin-camera" source="npm" spec="~2.1.1" />
     <plugin name="cordova-plugin-media-capture" source="npm" spec="~1.2.0" />
